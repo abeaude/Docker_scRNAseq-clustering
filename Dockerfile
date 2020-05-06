@@ -1,4 +1,4 @@
-FROM abeaude/seurat-v3:3.6.2
+FROM abeaude/seurat-v3:3.6.3
 ENV PATH /opt/conda/bin:$PATH
 
 ## And set ENV for R! It doesn't read from the environment...
